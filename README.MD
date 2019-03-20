@@ -1,1 +1,1 @@
-*GULP TEST*
+"# gulp-test" 
